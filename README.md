@@ -11,9 +11,13 @@ Infrastructure: A camada de infraestrutura que lida com o armazenamento e acesso
 Endpoints da API
 
 GET /api/tarefas: Retorna todas as tarefas.
+
 GET /api/tarefas/{id}: Retorna uma tarefa por ID.
+
 POST /api/tarefas: Cria uma nova tarefa.
+
 PUT /api/tarefas/{id}: Atualiza uma tarefa existente.
+
 DELETE /api/tarefas/{id}: Exclui uma tarefa por ID.
 
 Contribuição
