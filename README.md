@@ -4,7 +4,7 @@ Este é um exemplo de uma API de gerenciamento de tarefas construída em C# usan
 Estrutura do Projeto
 A estrutura do projeto segue as melhores práticas e a arquitetura DDD:
 
-CrudWebApi: A camada de aplicação que contém o controlador da API.
+TestXp: A camada de aplicação que contém o controlador da API.
 Domain: A camada de domínio que define os modelos de domínio e serviços.
 Infrastructure: A camada de infraestrutura que lida com o armazenamento e acesso aos dados (simulado neste exemplo).
 
